@@ -18,10 +18,8 @@ Hangman
  
 
 **Technological information**
-
 All files will be written in Java using Eclips with the ADT plug-in. No other libraries other than the default Java libraries will be used. 
 
 **Screens**
-
 The file Screens overview.pdf shows the screens of the app and how they are linked together.
 
