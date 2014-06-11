@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HangmanA</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="buttonSettings">SETTINGS</string>
+    <string name="buttonHighScores">HIGH-SCORES</string>
+    <string name="doesItWork">Does it work?</string>
+    <string name="itDoes">It does!</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="restart">RESTART</string>
+	<string name="guess">GUESS</string>
+	<string name="input">Guess a letter</string>
+	<string name="wrongGuesses">Wrong guesses: 0</string>
+</resources>
