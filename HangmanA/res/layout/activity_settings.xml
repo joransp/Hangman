@@ -15,7 +15,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="116dp"
-        android:max="46" />
+        android:max="5" />
 
     <SeekBar
         android:id="@+id/seekBar2"
@@ -33,7 +33,7 @@
         android:layout_alignBottom="@+id/seekBar1"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="60dp"
-        android:text="Wordlength: 0" />
+        android:text="@string/wordLength" />
 
     <TextView
         android:id="@+id/wrongGuesses"
@@ -43,6 +43,6 @@
         android:layout_alignLeft="@+id/seekBar2"
         android:layout_marginBottom="21dp"
         android:layout_marginLeft="28dp"
-        android:text="Wrong guesses allowed: 0" />
+        android:text="@string/wrongGuessesAllowed" />
 
 </RelativeLayout>

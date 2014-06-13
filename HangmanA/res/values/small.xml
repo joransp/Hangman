@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 <string-array name="words_small">
+    <item>A</item>
+    <item>I</item>
+    <item>AT</item>
+    <item>ON</item>
+    <item>TO</item>
+    <item>FOR</item>
+    <item>THE</item>
+    <item>PEN</item>
+    <item>ROB</item>
 	<item>BEAR</item>
 	<item>BOAR</item>
 	<item>DEER</item>
 	<item>DUCK</item>
 	<item>HARE</item>
+	<item>ADULT</item>
+	<item>KIOSK</item>
+	
 </string-array>
 </resources>
+
+	

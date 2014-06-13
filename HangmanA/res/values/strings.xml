@@ -13,4 +13,7 @@
 	<string name="guess">GUESS</string>
 	<string name="input">Guess a letter</string>
 	<string name="wrongGuesses">Wrong guesses: 0</string>
+	<string name="wordLength">Wordlength: 0</string>
+	<string name="wrongGuessesAllowed">Wrong guesses allowed: </string>
+	<string name="wrongLetters">Wrong guessed letters: </string>
 </resources>
